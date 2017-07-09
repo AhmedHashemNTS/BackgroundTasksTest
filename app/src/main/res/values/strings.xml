@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundTasksTest</string>
+
+    <string name="local_service_started">156448797</string>
+</resources>
